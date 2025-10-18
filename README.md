@@ -8,7 +8,7 @@ This project demonstrates the deployment and configuration of a live NGINX web s
 
 ## Server Details  
 - Platform: AWS EC2 (Ubuntu 24.04 LTS)  
-- Public IP: http://http://16.170.206.127/  
+- Public IP: http://16.170.206.127/
 - Deployed on: 18 October 2025
 
 ---
